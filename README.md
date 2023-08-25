@@ -3,12 +3,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/makhmudov-otabek-official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="makhmudov-otabek-official" height="30" width="40" /></a>
+
 <a href="https://twitter.com/otabek_mahmud0v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="otabek_mahmud0v" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20057750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20057750" height="30" width="40" /></a>
 <a href="https://fb.com/makhmudov.otabek.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="makhmudov.otabek.official" height="30" width="40" /></a>
 <a href="https://instagram.com/makhmudov.otabek_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="makhmudov.otabek_official" height="30" width="40" /></a>
 <a href="https://discord.gg/makhmudov_otabek_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="makhmudov_otabek_official" height="30" width="40" /></a>
+<a href="https://codepen.io/makhmudov-otabek-official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="makhmudov-otabek-official" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
